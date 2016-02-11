@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Main\HandController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Main\WellLayerController.cs" Line="22" Column="6" />
+      <File FileName="Assets\PSMove\PSMoveExample.cs" Line="41" Column="4" />
+      <File FileName="Assets\Scripts\Main\HandController.cs" Line="45" Column="9" />
+      <File FileName="Assets\Scripts\Main\Brick.cs" Line="14" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
